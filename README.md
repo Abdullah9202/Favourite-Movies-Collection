@@ -12,9 +12,8 @@ This is a simple web application built with Flask that allows users to manage th
 ## Installation
 
 1. Getting the API Key:
-Register yourself at <https://www.themoviedb.org/> and copy the API key. In the API Folder of project directory, create a file named .env and paste 
-your API key like this
-`api_key=Your API key`
+Register yourself at <https://www.themoviedb.org/> and copy the API key. In the `API` Folder of project directory, create a file named .env and paste 
+your API key like this `api_key=Your API key`
 
 2. Clone the repository:
 Open the terminal or cmd and enter this git command <https://github.com/Abdullah9202/Favourite-Movies-Collection>
