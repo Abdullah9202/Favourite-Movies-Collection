@@ -12,4 +12,7 @@ This is a simple web application built with Flask that allows users to manage th
 ## Installation
 
 1. Clone the repository:
-Open the terminal or cmd and enter the this git command <https://github.com/Abdullah9202/movie-collection.git>
+Open the terminal or cmd and enter this git command <https://github.com/Abdullah9202/Favourite-Movies-Collection>
+
+2. Install the required dependencies:
+When in root directory of project ppen terminal or cmd and enter this command to install all dependencies <pip install -r requirements.txt>
