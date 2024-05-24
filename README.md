@@ -16,4 +16,5 @@ Open the terminal or cmd and enter this git command <https://github.com/Abdullah
 
 2. Install the required dependencies:
 When in root directory of project ppen terminal or cmd and enter this command to install all dependencies
+
 `pip install -r requirements.txt`
