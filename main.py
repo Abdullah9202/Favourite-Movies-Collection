@@ -112,4 +112,4 @@ if __name__ == '__main__':
         # db.session.add(new_Movie)
         # db.session.commit()
     # Init the app
-    app.run(debug=True, host="127.0.0.1", port=8080)
+    app.run(debug=True, host="127.0.0.1", port=5000)
