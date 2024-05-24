@@ -15,6 +15,30 @@ This is a simple web application built with Flask that allows users to manage th
 Open the terminal or cmd and enter this git command <https://github.com/Abdullah9202/Favourite-Movies-Collection>
 
 2. Install the required dependencies:
-When in root directory of project ppen terminal or cmd and enter this command to install all dependencies
+When in root directory of project, Open terminal or cmd and enter this command `pip install -r requirements.txt` to install all dependencies
 
-`pip install -r requirements.txt`
+3. Run the application:
+When in root directory of project, Open terminal or cmd and enter this command `python main.py` to execute the project
+
+4. Open your web browser and go to `http://127.0.0.1:5000` to view the application.
+
+## File Structure
+
+- `myMovies.py`: Defines the database model for movies.
+- `addForm.py`: Contains the form class for adding movies.
+- `updateForm.py`: Contains the form class for updating movie details.
+- `main.py`: The main Flask application file.
+- `get_movie_data.py`: Contains functions for fetching movie data from an external API.
+- `add.html`: HTML template for adding a new movie.
+- `edit.html`: HTML template for editing movie details.
+- `index.html`: HTML template for the homepage displaying all favorite movies.
+- `select.html`: HTML template for selecting a movie from search results.
+
+## Credits
+
+- Built with Flask, SQLAlchemy, and Bootstrap.
+- Movie data is retrieved from The Movie Database (TMDb) API.
+
+## Developer
+
+This project is developed by Abdullah Khurram <https://github.com/Abdullah9202>
